@@ -8,7 +8,7 @@ markdown: kramdown
 # disqus: dbyll
 # google_analytics: dbyll
 
-title: "Testing"
+title: "INLS 161 Testing"
 url: "http://melissafu.github.io"
 
 defaults:
@@ -16,14 +16,16 @@ defaults:
     scope:
       path: "" # empty string for all files
       values:
-     # title: dbyll
 
 # description: Stylish Jekyll Theme
-author: Melissa Fu
-github: melissafu
+author: 
+  name: Melissa Fu
+  email: melissafu@unc.edu
+  github: melissafu
 #  twitter: dbtek
 #  pinterest: asd123
 #  linkedin: asd123
+#  resume: asd123
 #  bio: Your stylish, minimalist theme!
 #  email_md5: 726351295ec82e145928582f595aa3aa
 
