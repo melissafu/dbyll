@@ -26,14 +26,16 @@ body{
 	color: #fff;
 }
 
+/* TEST: color: red */
 a.nav-link {
 	padding-bottom: 5px;
 	padding-top: 7px;
-	color: #aaa;
+	color: ##AB2323;
 }
 a.nav-link i{
 	font-size: 16px;
 }
+/* TODO: change color */
 a.nav-link:hover { color: #777; }
 
 #bio {
@@ -111,6 +113,7 @@ article {
 	padding: 0 5% 0;
 }
 
+/*TODO: change article colors*/
 article.home div a, article.home pre a { color: #8162B2  ; }
 article.home div a:hover, article.home pre a:hover { color: #8162B2 ; text-decoration: none; }
 article img { max-width: 100%; }
@@ -158,6 +161,7 @@ footer {
     margin-right: -1px;
 }
 
+/*TODO: change nav color*/
 .nav-tabs-vertical>li.active>a, .nav-tabs-vertical>li.active>a:hover, .nav-tabs-vertical>li.active>a:focus {
     color: #555;
     cursor: default;
