@@ -1,7 +1,6 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-	/*did this do anything*/
 	color: #6D6E6E;
 }
 
@@ -112,9 +111,8 @@ article {
 	padding: 0 5% 0;
 }
 
-/*did changing this do anything*/
-article.home div a, article.home pre a { color: #6D6E6E; }
-article.home div a:hover, article.home pre a:hover { color: #6D6E6E; text-decoration: none; }
+article.home div a, article.home pre a { color: #8162B2  ; }
+article.home div a:hover, article.home pre a:hover { color: #8162B2 ; text-decoration: none; }
 article img { max-width: 100%; }
 
 h1,h2,h3,h4,h5,h6 { font-family: Arial; }
