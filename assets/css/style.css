@@ -124,20 +124,20 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: Arial;
-	color: #f2756a;
+	color: 	#A3E4D7;
 }
 
 article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #f2756a;
+	color: 	#A3E4D7;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color: #e74c3c;
+	color: 	#A3E4D7;
 }
 
 .author .author-image {
