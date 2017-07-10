@@ -53,27 +53,34 @@ article .share .btn {
 }
 #contact-list li:hover .fa-twitter,
 article .share .twitter:hover {
-	color: #00ACEE;
+	/*color: #00ACEE*/;
+	color: #A3E4D7;
 	border-color: #00ACEE;
 }
 #contact-list li:hover .fa-linkedin {
-	color: #1D87BD;
+	/*color: #1D87BD;*/
+	color: #A3E4D7;
 }
 #contact-list li:hover .fa-envelope {
-	color: #E93E30;
+	/*color: #E93E30;*/
+	color: #A3E4D7;
 }
 #contact-list li:hover .fa-pinterest {
-	color: #CC2127;
+	/*color: #CC2127;*/
+	color: #A3E4D7;
 }
 #contact-list li:hover .fa-rss {
-	color: #e74c3c;
+	/*color: #e74c3c;*/
+	color: #A3E4D7;
 }
 article .share .facebook:hover {
-	color: #43609C;
+	/*color: #43609C;*/
+	color: #A3E4D7;
 	border-color: #43609C;
 }
 article .share .gplus:hover {
-	color: #C13929;
+	/*color: #C13929;*/
+	color: #A3E4D7;
 	border-color: #C13929;
 }
 
@@ -111,9 +118,8 @@ article {
 	padding: 0 5% 0;
 }
 
-/*TODO: change article colors*/
-article.home div a, article.home pre a { color: #8162B2  ; }
-article.home div a:hover, article.home pre a:hover { color: #8162B2 ; text-decoration: none; }
+article.home div a, article.home pre a { color: #A3E4D7; }
+article.home div a:hover, article.home pre a:hover { color: #A3E4D7; text-decoration: none; }
 article img { max-width: 100%; }
 
 h1,h2,h3,h4,h5,h6 { font-family: Arial; }
@@ -174,7 +180,7 @@ footer {
     border-radius: 4px 0 0 4px;
 }
 
-.badge { background: #F2756A; }
+.badge { background: #A3E4D7;}
 
 #nav-menu{
     position: fixed;
