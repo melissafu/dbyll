@@ -6,7 +6,11 @@ body{
 
 /*test*/
 a{
-	color: 	#A3E4D7;
+	color: #A3E4D7;
+}
+
+a:hover {
+ 	color: #A3E4D7;
 }
 
 .sidebar {
@@ -160,10 +164,8 @@ article.home h4 a:hover {
 footer {
 	padding-top: 15px;
 	font-family: Arial;
-	color: #6D6E6E;
 }
 
-/* nav-vertical-tabs component */
 .nav-tabs-vertical {
     border-right: 1px solid #ddd;
 }
@@ -172,7 +174,6 @@ footer {
     margin-right: -1px;
 }
 
-/*TODO: change nav color*/
 .nav-tabs-vertical>li.active>a, .nav-tabs-vertical>li.active>a:hover, .nav-tabs-vertical>li.active>a:focus {
     color: #555;
     cursor: default;
