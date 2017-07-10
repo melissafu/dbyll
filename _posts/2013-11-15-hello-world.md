@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Hello World!
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+title: INLS 161 Website
+tags: [INLS161, website, experience]
 fullview: true
 comments: true
 ---
