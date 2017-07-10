@@ -1,4 +1,5 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
+@import "../_sass/fonts";;
 
 body{
 	color: #6D6E6E;
