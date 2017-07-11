@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Website Development Experience
-tags: [INLS161, webdev, experience]
+tags: [INLS161, webdev, experience, git, github, markdown, jekyll]
 fullview: true
 comments: true
 ---
