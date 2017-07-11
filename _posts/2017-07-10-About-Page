@@ -1,0 +1,9 @@
+---
+layout: post
+title: About Page
+tags: [INLS161, webdev, note]
+fullview: true
+comments: true
+---
+
+Had issues with linking to About because still can't find the code that addresses it. If you click on the Tags page, then navigate to About, the link works. However, if you click on the About from the Home page, the link will not exist.
