@@ -7,6 +7,7 @@ comments: true
 ---
 
 *Overall Experience* 
+
 I found making a website based on a template to be more challenging than making one from scratch. I think building one from the base up is easier in the sense that I have full control and knowledge of where everything is. I have minimal web development experience so editing the files wasn't that much of an issue. The more difficult and time-consuming part was trying to find where all the files were and what features referred to which part of the website. I particularly had difficulty making a new page because it took me a while to find where in which document contained the code for the navigation bar.
 
 *What I've Learned*
