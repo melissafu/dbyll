@@ -27,4 +27,4 @@ Creating variables was more difficult. We went over how to create new variables 
   * [docx](https://github.com/melissafu/melissafu-convert-documents/blob/master/dickinson.docx)
   * [odt](https://github.com/melissafu/melissafu-convert-documents/blob/master/dickinson.odt)
   * [pdf](https://github.com/melissafu/melissafu-convert-documents/blob/master/dickinson.pdf)
-  * [rtf](https://github.com/melissafu/melissafu-convert-documents/blob/master/dickinson.rtf): the instructions said to have 5 conversions
+  * [rtf](https://github.com/melissafu/melissafu-convert-documents/blob/master/dickinson.rtf) -- the instructions said to have 5 conversions
