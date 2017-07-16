@@ -22,6 +22,7 @@ Creating variables was more difficult. We went over how to create new variables 
 *Product*
 * [Repository](https://github.com/melissafu/melissafu-convert-documents)
 * [Script](https://github.com/melissafu/melissafu-convert-documents/blob/master/melissafu-convert-docs.sh)
+  * *I left some questions commented in my code*
 * [Source File](https://github.com/melissafu/melissafu-convert-documents/blob/master/dickinson.md)
   * [html](https://github.com/melissafu/melissafu-convert-documents/blob/master/dickinson.html)
   * [docx](https://github.com/melissafu/melissafu-convert-documents/blob/master/dickinson.docx)
