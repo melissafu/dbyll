@@ -22,5 +22,5 @@ I found making a website based on a template to be more challenging than making 
   * I never realized how much simpler markdown is than html because using closing tags can be a bit of a hassle. I'm glad that we went over this so that I can add it to my tool belt. 
   
  *What I'd Like to Learn More About*
- * __Jekyll__ :I like using jekyll because it has some really nice-looking templates, but I'm still a bit fuzzy about the commands and how it hosts to the server so I plan on reading more documentation about that, but it'd be nice if we went into that a bit more in class.
+ * __Jekyll__: I like using jekyll because it has some really nice-looking templates, but I'm still a bit fuzzy about the commands and how it hosts to the server so I plan on reading more documentation about that, but it'd be nice if we went into that a bit more in class.
   
